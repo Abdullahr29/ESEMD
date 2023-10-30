@@ -3,7 +3,7 @@
 ### Co-Author: Illimar Assak
 ### Date: June 2022
 
-*Please don't hesitate to contact me for any questions/details through email: abdullahyrehman49@gmail.com*
+*Please don't hesitate to contact me for any questions/details through email: abdullahyr9@gmail.com*
 
 More details about the implementation with diagrams and parameters are in the thesis folder. Here my thesis, final presentation, and overleaf zip folder can be found.
 
